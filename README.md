@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React js, Node.js, and Machine Learning.
 - 👯 I’m looking to collaborate on Fultter projects
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀
 - 💬 Ask me about Flutter and I will answer eagerly! 😎
